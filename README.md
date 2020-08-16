@@ -8,6 +8,6 @@
 
  [1.Course Introduction](./1.Course-Introduction.md)
 
- [2.Intermediate-Representation..md](./2.Intermediate-Representation..md)
+ [2.Intermediate-Representation.md](./2.Intermediate-Representation.md)
 
  [3.Data-Flow-Analysis-I.md](./3.Data-Flow-Analysis-I.md)
