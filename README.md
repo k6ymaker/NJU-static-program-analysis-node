@@ -17,3 +17,5 @@
 [5.Data-Flow-Analysis-Foundations-I.md](./5.Data-Flow-Analysis-Foundations-I.md)
 
 [6.Data-Flow-Analysis-Foundations-II.md](./6.Data-Flow-Analysis-Foundations-II.md)
+
+[7.Interprocedural-Analysis.md](./7.Interprocedural-Analysis.md)
