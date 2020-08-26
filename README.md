@@ -19,3 +19,5 @@
 [6.Data-Flow-Analysis-Foundations-II.md](./6.Data-Flow-Analysis-Foundations-II.md)
 
 [7.Interprocedural-Analysis.md](./7.Interprocedural-Analysis.md)
+
+[8.Pointer-Analysis.md](./8.Pointer-Analysis.md)
