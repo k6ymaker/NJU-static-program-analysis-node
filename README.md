@@ -150,3 +150,10 @@
 		- [ PFG](./9.Pointer-Analysis-Foundations-I.md#head7)
 		- [实现Pointer Analysis](./9.Pointer-Analysis-Foundations-I.md#head8)
 	- [Pointer Analysis:Algorithms](./9.Pointer-Analysis-Foundations-I.md#head9)
+
+[10.Pointer-Analysis-Foundations-II.md](./10.Pointer-Analysis-Foundations-II.md)
+
+- [Pointer Analysis with Method Calls](./10.Pointer-Analysis-Foundations-II.md#head1)
+	- [call rule](./10.Pointer-Analysis-Foundations-II.md#head2)
+	- [ 不加x到this](./10.Pointer-Analysis-Foundations-II.md#head3)
+	- [Interprocedure Pointer Anaylsis Algorithm](./10.Pointer-Analysis-Foundations-II.md#head4)
