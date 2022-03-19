@@ -3,6 +3,8 @@
 快速的过了一遍课程视频，大体了解了一下，打算看第二遍，并记下笔记。🙏感谢南大两位老师
 
 [课程地址](https://pascal-group.bitbucket.io/teaching.html)
+# 我的一些思考
+[thinking.md](./thinking.md)
 
 # 笔记目录
 
